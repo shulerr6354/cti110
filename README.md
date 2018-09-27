@@ -1,2 +1,3 @@
-# cti110
-CTI 110 Repository 
+# cti110 Repository
+Created for P2Lab1
+Shuler
